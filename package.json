@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/kegriz/words-be#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mysql2": "^3.0.1"
   }
 }
