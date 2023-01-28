@@ -1,4 +1,6 @@
 # WORDS BE App
+  [express](https://www.npmjs.com/package/express),
+  [mysql2](https://www.npmjs.com/package/mysql2)
 
 ## Quick start
 - install node js.
